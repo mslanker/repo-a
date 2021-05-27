@@ -1,0 +1,3 @@
+[submodule "repo-b"]
+	path = repo-b
+	url = https://github.com/mslanker/repo-b.git
